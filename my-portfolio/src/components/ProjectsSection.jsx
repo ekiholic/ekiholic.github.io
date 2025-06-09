@@ -45,6 +45,14 @@ export const ProjectsSection = () => {
             tags: ["Python", "PyQt5"],
             Url: "https://github.com/ekiholic/MixMaster-Hench-Droprate-Calculator"
         },
+        {
+            id: 5,
+            title: "Portfolio",
+            description: t('projects.portfolio'),
+            image: "/projects/portfolio.png",
+            tags: ["React", "Vite", "Tailwind CSS"],
+            Url: "https://github.com/ekiholic/MixMaster-Hench-Droprate-Calculator"
+        },
     ];
 
     return (

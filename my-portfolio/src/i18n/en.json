@@ -38,7 +38,8 @@
     "mm": "A tool to uncover hidden drop rates in MixMaster. When the GameMaster refused to reveal Hench monsters' drop rates, I found the formula and built this tool, giving players transparency and predictive simulations for their grind.",
     "ellia": "A Discord bot for the mobile game Summoners War that lets players summon monsters and share their collections. I developed this bot to recreate the excitement of gacha pulls with friends, featuring higher drop rates than the original game and a system to save obtained monsters.",
     "wizard": "Developed in just a few days during an Epitech project, this game prototype leverages Unreal's Blueprint system to create an immersive experience without writing a single line of code. A technical challenge completed in record time, demonstrating my ability to quickly master complex visual scripting tools.",
-    "schooladventure": "Education video game for kids (elementary level) with parental dashboard. Developed as a team project during my final year at Epitech, this game features 10+ mini-games that cover multiple subjects."
+    "schooladventure": "Education video game for kids (elementary level) with parental dashboard. Developed as a team project during my final year at Epitech, this game features 10+ mini-games that cover multiple subjects.",
+    "portfolio": "I took the opportunity of building this portfolio to improve my skills in two key technologies: React for the structure and Tailwind CSS for styling. This project allowed me to explore the efficiency of Utility-First CSS while strengthening my fundamentals in React components."
   },
   "menu": {
     "open": "Open menu",

@@ -38,7 +38,8 @@
     "mm": "Outil pour le jeu MixMaster. Le GameMaster ne voulant pas dévoiler le taux de drop des Hench (nom des monstres), j'ai trouvé la formule et créé cet outil afin que la communauté puisse enfin connaître les taux et faire des simulations.",
     "ellia": "Un simulateur d'invocations pour le jeu mobile Summoners War, permettant aux joueurs d'invoquer des monstres et de partager leur collection. J'ai développé ce bot Discord pour recréer l'excitation des tirages gacha entre amis, avec des taux supérieur au jeu et un système de sauvegarde des monstres obtenus.",
     "wizard": "Développé en quelques jours lors d'un projet Epitech, ce prototype de jeux vidéo exploite la puissance des Blueprints pour créer une expérience immersive sans écrire une seule ligne de code. Un défi technique relevé en un temps recor, montrant ma capacité à maîtriser rapidement des outils.",
-    "schooladventure": "Jeu vidéo éducatif pour enfants (niveau primaire) avec dashboard parental. Développé en équipe lors de mon projet de fin d'études à Epitech, ce jeu combine une dizaine de mini-jeux couvrant différentes matières avec un système de suivi pour les parents."
+    "schooladventure": "Jeu vidéo éducatif pour enfants (niveau primaire) avec dashboard parental. Développé en équipe lors de mon projet de fin d'études à Epitech, ce jeu combine une dizaine de mini-jeux couvrant différentes matières avec un système de suivi pour les parents.",
+    "portfolio": "J'ai profité de la création de ce portfolio pour monter en compétences sur deux technologies clés : React pour la structure et Tailwind CSS pour le styling. Ce projet m'a permis de découvrir l'efficacité du Utility-First CSS tout en consolidant mes bases en composants React."
   },
   "menu": {
     "open": "Ouvrir le menu",
